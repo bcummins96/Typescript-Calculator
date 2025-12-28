@@ -1,6 +1,6 @@
-simple typescript calculator 
+simple typescript calculator   
 run:
 
-  npm install
-  npm run build
-  npm start add 5 3
+  npm install  
+  npm run build  
+  npm start add 5 3  
